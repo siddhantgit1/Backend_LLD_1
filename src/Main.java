@@ -3,6 +3,6 @@ public class Main {
 
         System.out.println("Hello world!");
         System.out.println("Trying");
-        System.out.println("Trying from gitHub);
+        System.out.println("Trying from gitHub");
     }
 }
