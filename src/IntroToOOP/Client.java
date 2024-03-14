@@ -9,5 +9,8 @@ public class Client {
         x.gradYear = 2022;
         x.currentCompany = "Autodesk";
         System.out.println(x.currentCompany);
+
+        x.setAge(26);
+        System.out.println(x.getAge());
     }
 }
